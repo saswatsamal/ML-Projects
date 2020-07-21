@@ -9,3 +9,10 @@ This repository all my Machine Learning Projects done during the Internship Prog
 #### About the Internship
 The Internship was on Machine Learning using Python using IBM Watson. It was a 20days long course with 10days of project submission. 
 - The course started from basic python to Supervised & Unsupervised Learning. You can find the days wise work in this repository. [Click here]()
+
+
+
+### License
+This repository is under MIT License. Read it [here](https://github.com/saswatsamal/ML-Projects/blob/master/LICENSE)
+
+![License](https://img.shields.io/github/license/saswatsamal/ML-Projects?color=red&style=for-the-badge)
